@@ -75,3 +75,4 @@ Graag ontvangen:
 - RESTful API ontwerp
 - Netheid en modulariteit van de code
 - Documentatie en bruikbaarheid
+- Dependency management
