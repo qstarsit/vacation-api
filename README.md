@@ -76,3 +76,4 @@ Graag ontvangen:
 - Netheid en modulariteit van de code
 - Documentatie en bruikbaarheid
 - Dependency management
+- Vastleggen van design decisions
